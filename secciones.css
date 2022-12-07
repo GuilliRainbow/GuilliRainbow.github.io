@@ -1,0 +1,35 @@
+body{background-color: rgb(209, 149, 236);}
+header{display: block;
+    background-color: rgb(209, 149, 236);
+    padding: 10px 0px;}
+section{width: 78%;
+    background-color: rgb(204, 191, 235);
+    float: left;
+    overflow: auto;
+    padding-bottom: 60px;
+    padding-top: 30px;
+    border-style: double;}
+aside{float:right
+    border-width: thin;
+    border-style: solid;
+    border-color: blue;
+    width: %;}
+footer{position: relative;
+    margin-top: -50px;
+    height: 40px;
+    clear:both;
+    background-color:rgb(209, 149, 236);
+    color: rgb(209, 149, 236);}
+figure{display: table; margin: 0 auto;}
+p.borde{border-width: 2px;
+    border-color: rgb(255, 183, 249);
+    border-style: inset;}
+*{background-color: pink;}
+h1{font-size:70px; 
+    color: rgb(250, 90, 100);}
+h2{font-weight: 69px;}
+h3{font-style: italic;}
+h4{text-decoration: underline;}
+h5{text-decoration: line-through;}
+h6{line-height: 1.1cm;
+color: transparent;}
